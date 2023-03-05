@@ -23,7 +23,7 @@ async def hi(ctx):
 
 @client.slash_command()
 async def help(ctx):
-    await ctx.respond(f"Here's a provided list of my commands!")
+    await ctx.respond(f"Here's a provided list of my commands!") # i'm too lazy to add the commands stuff, maybe later
 
 @client.slash_command()
 async def sexytime (ctx):
