@@ -30,4 +30,4 @@ async def sexytime (ctx):
     await ctx.respond(f"https://cdn.discordapp.com/attachments/977409205126447124/1079781794754338926/v09044g40000cfg1vh3c77u2ftqve8d0.mov")
 
 
-client.run("MTA3OTY2MTEyMTMyMzE1MTM3MA.GZ1tqj.STb27b9Oq4mTVkt4Tiv4By3Frn39Q5nxD1KbUc")
+client.run("token")
