@@ -29,5 +29,9 @@ async def help(ctx):
 async def sexytime (ctx):
     await ctx.respond(f"https://cdn.discordapp.com/attachments/977409205126447124/1079781794754338926/v09044g40000cfg1vh3c77u2ftqve8d0.mov")
 
+@client.slash_command()
+async def help (ctx):
+    await ctx.respond(f"Hi there! Here's a list of my commands 
+
 
 client.run("token")
